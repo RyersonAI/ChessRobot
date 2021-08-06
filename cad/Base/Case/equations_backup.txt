@@ -1,0 +1,10 @@
+﻿"case_height"= 100mm
+"case_length"= 700mm
+"clock_width"= 75mm
+"clock_length"= 200mm
+"clock_height"= 75mm
+"clock_offset"= 10mm
+"arm_sleeve_diameter"= 100mm
+"square_length"= 50mm
+"board_length"= "square_length" * 8
+"case_width"= "board_length" + "clock_width" * 2 + "clock_offset" * 4
