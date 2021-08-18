@@ -8,7 +8,7 @@ The initial version of the robot will be made using a hybrid of hard and soft ro
 
 ![](img/chess-machine.png)
 
-<img src="img/artificial-muscle-fibers.jpg" alt="drawing" width="200"/>
+<img src="img/artificial-muscle-fibers.jpg" alt="drawing" width="600"/>
 ![]()
 
 ![](img/current.mp4)
